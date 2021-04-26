@@ -1,0 +1,10 @@
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\bin\Debug\mydb.accdb
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\bin\Debug\UKK PBO.exe.config
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\bin\Debug\UKK PBO.exe
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\bin\Debug\UKK PBO.pdb
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK_PBO.Form1.resources
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK_PBO.Properties.Resources.resources
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK PBO.csproj.GenerateResource.Cache
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK PBO.exe
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK PBO.pdb
+D:\UJIAN PRAKTEK\UKK PBO\UKK PBO\obj\x86\Debug\UKK PBO.csprojResolveAssemblyReference.cache
